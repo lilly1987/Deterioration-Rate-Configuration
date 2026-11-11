@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Deterioration Rate Configuration</name>
 	<author>Zezz</author>
@@ -19,5 +19,6 @@
 		<li>brrainz.harmony</li>
 	</loadAfter>
 	<description>from https://steamcommunity.com/sharedfiles/filedetails/?id=2572281131
-	Adjust the deterioration rate for items that are left outdoors, unroofed, etc.</description>
-</ModMetaData>
+
+Adjust the deterioration rate for items that are left outdoors, unroofed, etc.</description>
+<modVersion>1.0</modVersion></ModMetaData>
